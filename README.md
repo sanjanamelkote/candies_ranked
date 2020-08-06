@@ -15,3 +15,7 @@ Here is some text and I want to create a [link](https://wikipedia.org)
 here is some text
 
 more text
+
+[previous projects](http://paldhous.github.io/ucbdataviz/2017/index.html)
+
+[cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
