@@ -12,9 +12,11 @@ Once the data set was cleaned, I sorted the data in multiple ways: by popularity
 
 ![candies ranked, most and least](https://media.journalism.berkeley.edu/upload/2020/08/1597129324549fffe.png)
 
-Each candy was categorized by type of candy (chocolate or fruity), key add on ingredients(caramel, nuts, nougat, or crisped rice wafer), whether the candy was a hard candy, bar, or came in a pack of multiple pieces. The candies were then rated based on price, sugar level, and popularity. Here are the candies with the highest and lowest prices, sugar level, and popularity.
+Each candy was categorized by type of candy (chocolate or fruity), key add on ingredients(caramel, nuts, nougat, or crisped rice wafer), whether the candy was a hard candy, bar, or came in a pack of multiple pieces. The candies were then rated based on price, sugar level, and popularity. Here are the candies with the highest popularity, lowest prices, and lowest sugar level.
 
 ![candy popularity](https://media.journalism.berkeley.edu/upload/2020/08/1597187754bc83131.png)
+![candy price](https://media.journalism.berkeley.edu/upload/2020/08/15971882910fd939c.png)
+![sugar level](https://media.journalism.berkeley.edu/upload/2020/08/15971884878391f3b.png)
 
 I ranked each candy by its popularity percentile, from most to least popular. This visualization revealed that every variation of a Reese's Peanut Butter candy was in the top 10 most popular candies.
 
@@ -27,7 +29,7 @@ What's more is that in the top 10 candies, 6 of the candies were nut based candi
 
 ![pie chart](https://media.journalism.berkeley.edu/upload/2020/08/1597176374ecb9ed5.png)
 
-Out of the 85 top ranked candies, 37 were chocolate based, 36 were fruity, 11 were neither chocolate nor fruit based, and 1 was both — tootsie rolls!
+Out of the 85 top ranked candies, 37 were chocolate based, 36 were fruity, 11 were neither chocolate nor fruit based, and 1 was both chocolatey and fruity — tootsie rolls!
 
 ![price and popularity](https://media.journalism.berkeley.edu/upload/2020/08/1597128867b2a4275.png)
 
@@ -35,7 +37,7 @@ If people are looking out to give candy to many children, they won't be reaching
 
 ![sugar level and popularity](https://media.journalism.berkeley.edu/upload/2020/08/1597131083801a346.png)
 
-After realizing that flavor is a bigger factor in candy popularity, I looked to see if there was a correlation between sugar level in candy and its popularity. However, this chart also had little correlation between the two variables. A higher sugar level doesn't necessarily mean better tasting! Some good news: some of the most popular candies (i.e. Reese's miniatures) are lower in sugar! That means its healthy, *right*?  Here is an interactive version of the [sugar level and popularity chart](https://datawrapper.dwcdn.net/mKacm/1/)
+After realizing that flavor is a bigger factor in candy popularity, I looked to see if there was a correlation between sugar level in candy and its popularity. However, this chart also had little correlation between the two variables. A higher sugar level doesn't necessarily mean better tasting! Some good news: some of the most popular candies (i.e. Reese's miniatures) are lower in sugar! That means its healthy, *right*?  Here is an interactive version of the [sugar level and popularity chart](https://datawrapper.dwcdn.net/mKacm/1/).
 
 ![allergies](https://media.journalism.berkeley.edu/upload/2020/08/159717820995d4bec.png)
 
@@ -46,32 +48,8 @@ The fact that nut based candies are still the most popular despite the common nu
 
 While thankfully, I don't have any allergies, I am vegetarian and I was curious to see what types of candies are vegetarian and vegan! Hey, lets not leave anyone out when it comes to Halloween sugar highs, right? Unlike the Spokin article, an [article](https://www.connectionsacademy.com/the-monitor/candies-vegetarians-vegans-can-eat) on Connections Academy lists many chocolates that are suitable for vegetarians because the fruitier candies tend to have ingredients like gelatin. Vegan candies are also available on the article! The article suggests to avoid gummies, starburst, candy corn, marshmallows, and junior mints if you are vegetarian or vegan. Quick PSA: Jolly Ranchers(one of my favorite candies) was on the vegan list but not in the data set I am using for the popularity percentiles! 
 
+So, does deciding which Halloween candy to pass out require an entire data analysis project accompanied by multiple data visualizations? *Probably* not. However, if I can't eat sugar, I might as well spend my time thinking about it. Yum!
 
-
-
-
-
+![halloween success guide](https://media.journalism.berkeley.edu/upload/2020/08/159718927497e8915.png)
 
 ***
-
-markdown references:
-
-[link](https://wikipedia.org)
-
-1. item
-2. second item
-3. third item
-
-* item
-* item
-* item
-
-![cat pic](https://placekitten.com/400/300)
-
-here is some text
-
-more text
-
-[previous projects](http://paldhous.github.io/ucbdataviz/2017/index.html)
-
-[cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
