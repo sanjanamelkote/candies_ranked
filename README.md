@@ -27,6 +27,9 @@ If people are looking out to give candy to many children, they won't be reaching
 
 ![price and popularity](https://media.journalism.berkeley.edu/upload/2020/08/1597128867b2a4275.png)
 
+After realizing that flavor is a bigger factor in candy popularity, I looked to see if there was a correlation between sugar level in candy and its popularity. However, this chart also had little correlation between the two variables. A higher sugar level doesn't necessarily mean better tasting! Some good news: some of the most popular candies (i.e. Reese's miniatures) are lower in sugar! That means its healthy, *right*?  Here is an interactive version of the [sugar level and popularity chart](https://datawrapper.dwcdn.net/mKacm/1/)
+
+![sugar level and popularity](https://media.journalism.berkeley.edu/upload/2020/08/1597131083801a346.png)
 
 
 ***
